@@ -1,12 +1,11 @@
-# 🎯 Cross-Camera-player-mapping-using-YOLO
 
 # 🚀 CROSS-CAMERA-PLAYER-MAPPING-USING-YOLO
 
 > Seamless Multi-View Player Tracking Unleashed
 
-[![last commit](https://img.shields.io/github/last-commit/yourusername/Cross-Camera-player-mapping-using-YOLO)](https://github.com/yourusername/Cross-Camera-player-mapping-using-YOLO/commits/main)
+[![last commit](https://img.shields.io/github/last-commit/sidd707/Cross-Camera-player-mapping-using-YOLO)](https://github.com/yourusername/Cross-Camera-player-mapping-using-YOLO/commits/main)
 [![notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)]()
-[![languages](https://img.shields.io/github/languages/count/yourusername/Cross-Camera-player-mapping-using-YOLO)]()
+[![languages](https://img.shields.io/github/languages/count/sidd707/Cross-Camera-player-mapping-using-YOLO)]()
 [![markdown](https://img.shields.io/badge/Built%20with-Markdown-1f425f.svg)]()
 
 ---
