@@ -137,7 +137,7 @@ Here’s the output video where players retain consistent IDs across views:
 For improvements or collaboration:
 
 - 🔗 GitHub Issues: [Report bugs or suggestions](https://github.com/sidd707/Cross-Camera-player-mapping-using-YOLO/issues)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Your Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/siddharth-patel-505935251/))
 
 ---
 
